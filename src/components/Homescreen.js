@@ -15,7 +15,7 @@ const Homescreen = () => {
                                     <div>
                                         <div class="content">
                                             <h1>Let's work together to combat food waste.</h1>
-                                            <h3>Use the Frescue app to discover shops and restaurants in your area and rescue Surprise Bags of surplus food at a great price, preventing it from going to waste.</h3>
+                                            <h3>Use the Frescue app now to discover shops and restaurants in your area and rescue Surprise Bags of surplus food at a great price, preventing it from going to waste.</h3>
                                             <div class="search-box">
                                                 <input type="search" class="form-control"
                                                     placeholder="I'm searching for..."></input>
